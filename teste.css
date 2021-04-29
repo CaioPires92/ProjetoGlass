@@ -1,0 +1,26 @@
+#fixo {
+    width: 100px;
+    overflow: hidden;
+    background-color: yellow;
+  }
+  #rolavel {
+    height: 100px;
+    width: 117px;
+    overflow-y: scroll;
+    background-color: green;
+  }
+  <p>Role o div verde abaixo utilizando o scroll do mouse</p>
+  <div id="fixo">
+    <div id="rolavel">
+      <p>linha</p>
+      <p>linha</p>
+      <p>linha</p>
+      <p>linha</p>
+      <p>linha</p>
+      <p>linha</p>
+      <p>linha</p>
+      <p>linha</p>
+      <p>linha</p>
+      <p>linha</p>
+    </div>
+  </div>
